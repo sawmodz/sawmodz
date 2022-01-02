@@ -22,12 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sawmodz&show_icons=true&locale=en&layout=compact" alt="sawmodz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sawmodz&show_icons=true&locale=en" alt="sawmodz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawmodz&" alt="sawmodz" /></p>
-
-
-
-
-
-<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sawmodz&show_icons=true&theme=dark" />
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sawmodz&show_icons=true&layout=compact&theme=dark" />
