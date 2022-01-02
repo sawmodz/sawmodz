@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Blizz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawmodz" alt="sawmodz" /></a> </p>
-
 - 🔭 I’m currently working on [srpeurifoy's twitch bot](https://github.com/sawmodz/srpeurifoy_TwitchBot)
 
 - 🌱 I’m currently learning **Expo React Native**
@@ -26,3 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sawmodz&show_icons=true&locale=en" alt="sawmodz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawmodz&" alt="sawmodz" /></p>
+
+
+
+
+
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sawmodz&show_icons=true&theme=dark" />
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sawmodz&show_icons=true&layout=compact&theme=dark" />
