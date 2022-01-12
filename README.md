@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blizz</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [srpeurifoy's twitch bot](https://github.com/sawmodz/srpeurifoy_TwitchBot)
+- 🔭 I’m currently working on [MorpionSchoolProject](https://github.com/sawmodz/MorpionSchoolProject)
 
 - 🌱 I’m currently learning **Expo React Native**
 
