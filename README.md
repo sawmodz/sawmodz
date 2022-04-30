@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blizz</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [MorpionSchoolProject](https://github.com/sawmodz/MorpionSchoolProject)
+- 🔭 I’m currently working on Private Project...
 
-- 🌱 I’m currently learning **Expo React Native**
+- 🌱 I’m currently learning **ThreeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sawmodz](https://github.com/sawmodz)
 
