@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blizz</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on Private Project...
+- 🔭 I’m currently working on [AmongLol](https://github.com/sawmodz/AmongLol_Client)
 
-- 🌱 I’m currently learning **ThreeJs**
+- 🌱 I’m currently learning **How to find jobs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sawmodz](https://github.com/sawmodz)
 
