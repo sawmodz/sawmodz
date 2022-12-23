@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blizz</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate fullstack developer from France</h3>
 
 - 🔭 I’m currently working on [AmongLol](https://github.com/sawmodz/AmongLol_Client)
 
